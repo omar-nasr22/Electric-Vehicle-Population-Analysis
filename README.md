@@ -13,6 +13,7 @@ It provides insights into vehicle types, top EV brands, and regional adoption tr
 |-----------------------------------|------------------------------------------------------|
 | `DASHBOARD.pbix`                  | Final Power BI report and dashboard                 |
 | `Electric_Vehicle_Population_Data.rar` | Compressed dataset used in the report               |
+| `DASHBOARD.jpg`                   | Screenshot of the completed dashboard                 |
 | `Background.jpg`                  | Custom background image used in the dashboard       |
 | `Electric Vehicle Presentation.pptx` | Project summary presentation                        |
 
