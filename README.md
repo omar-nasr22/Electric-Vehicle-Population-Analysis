@@ -34,7 +34,7 @@ It provides insights into vehicle types, top EV brands, and regional adoption tr
 |-------------|-----------------------------------------------|
 | 🟣 Power BI | Data modeling, DAX calculations, and visuals   |
 | 🧹 Data Prep | Cleaned and structured data inside Power BI    |
-| 🌍 Maps      | Geo-visualization of regional EV population   |
+|  Maps      | Geo-visualization of regional EV population   |
 | 📊 Charts    | Comparative analysis of EV brands & types      |
 | 🎨 Design    | Custom background and theme for visuals        |
 
@@ -63,4 +63,4 @@ Check out more of my projects on [GitHub](https://github.com/YOUR_USERNAME) 🔗
 
 ---
 
-⭐ If you found this project interesting, don't forget to give it a **star**!
+ If you found this project interesting, don't forget to give it a **star**!
